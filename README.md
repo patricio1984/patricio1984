@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/patriciomainero" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="patriciomainero" height="30" width="40" />LinkedIn</a>
+<a href="https://linkedin.com/in/patriciomainero" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="patriciomainero" height="30" width="30" />LinkedIn</a>
 <a href="https://stackoverflow.com/users/13857090" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="13857090" height="30" width="40" />Stack Overflow</a>
 </p>
 
