@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Patricio Daniel Mainero</h1>
-<h3 align="center">Desarrollador de frontend developer de Argentina a el mundo</h3>
+<h3 align="center">Desarrollador de frontend developer de Argentina al mundo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patricio1984&label=Profile%20views&color=0e75b6&style=flat" alt="patricio1984" /> </p>
 
