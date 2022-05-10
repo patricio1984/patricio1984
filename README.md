@@ -1,3 +1,4 @@
+<main style="background-color:#CCCCCC;">
 <h1 align="center">Hola 👋, Soy Patricio Daniel Mainero</h1>
 <h3 align="center">Desarrollador de frontend developer de Argentina al mundo</h3>
 
@@ -65,7 +66,7 @@
 <h4 align="left">Generadores de sitios estáticos:</h4>
 <p align="left">
   <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://ghost.teacode.io/content/images/2021/10/174504271_135470751881682_8455879154013993434_n--1-.png" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Otros:</h4>
@@ -77,4 +78,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patricio1984&show_icons=true&locale=en&layout=compact" alt="patricio1984" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patricio1984&show_icons=true&locale=en" alt="patricio1984" /></p>
-
+</main>
