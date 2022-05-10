@@ -42,7 +42,7 @@
 <h4 align="left">Desarrollo Back-end:</h4>
 <p align="left">
    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234-p-500.png" alt="express" width="40" height="40"/> </a>
   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 </p>
 
@@ -65,7 +65,7 @@
 <h4 align="left">Generadores de sitios estáticos:</h4>
 <p align="left">
   <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://ghost.teacode.io/content/images/2021/10/174504271_135470751881682_8455879154013993434_n--1-.png" alt="nextjs" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Otros:</h4>
