@@ -1,4 +1,4 @@
-<main style="background-color:#CCCCCC;">
+<main style="background-color:#CCCCCC !important;">
 <h1 align="center">Hola 👋, Soy Patricio Daniel Mainero</h1>
 <h3 align="center">Desarrollador de frontend developer de Argentina al mundo</h3>
 
